@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Axam-Mukiibi
 - 👀 I’m interested in Data Analysis, Science and Machine Learning.
-- I'm currently learning more machine learning techniques.
+- I'm currently looking for more opportunities to work on real-world datasets and grow my career and experience as a Data SCientist.
 - 💞️ I’m looking to collaborate on any Data Science Projects
 - 📫 How to reach me ...uic.17bca1545@gmail.com
 
