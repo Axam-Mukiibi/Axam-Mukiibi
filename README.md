@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Axam-Mukiibi
-- 👀 I’m interested in Data Analysis, Science and Machine Learning.
-- I'm currently looking for more opportunities to work on real-world datasets and grow my career and experience as a Data Scientist.
-- 💞️ I’m looking to collaborate on any Data Science Projects
+- 👀 A guy trying to figure out what his good at from Python Data Science to Front End Web Development with React JS.
+- 💞️ I’m looking to learn more in React and get better.
 - 📫 How to reach me ...uic.17bca1545@gmail.com
 
 <!---
